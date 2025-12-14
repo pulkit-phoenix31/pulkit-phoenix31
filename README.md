@@ -1,79 +1,83 @@
-<h1 align="center">Hello, This is Pulkit Chopra 👋</h1>
+<h1 align="center">
+  Hello, I’m <span style="font-family: 'Georgia', serif;">Pulkit Chopra</span> 👋
+</h1>
 
 <p align="center">
-  <em>Software Developer | Reader | Tech Enthusiast</em>
+  <i style="font-size:16px;">
+    Software Developer • Reader • Tech Enthusiast
+  </i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=BBH+Bogle&weight=1000&pause=1000&color=F7003C&background=FFFFFF9C&center=true&vCenter=true&width=435&height=30&lines=%7C+Software+Developer+%7C;%7C+Data+Analyst+%26+Scientist+%7C;%7C+Ethical+Hacker+%7C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&pause=1200&color=1ABC9C&center=true&vCenter=true&width=520&height=38&lines=Crafting+Clean+%26+Scalable+Software;Exploring+Data+Science+%26+AI;Learning.+Building.+Improving." />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pulkit-phoenix31&label=Visitors&color=1abc9c&style=flat" />
 </p>
 
 ---
 
-## 📌 About Me
+## ✦ About Me
 
-- 🚀 Passionate about building reliable software solutions using Python, C, and modern web technologies.
-- 🧠 Actively exploring data science, AI-powered systems, and cloud-based architectures to solve real-world problems.
-- 💻 Experienced in developing end-to-end projects, from backend logic to user-friendly interfaces.
-- 🎓 Alongside development, I enjoy teaching and mentoring students in programming and problem-solving.
-- 🛠️ Currently working on impactful systems like V-SOS, focusing on scalability and real-life usability.
-- 🌍 Strong believer in open-source culture and continuous learning through community collaboration.
+I’m a **software developer driven by curiosity, clarity, and craftsmanship**.  
+I enjoy working on systems that are not just functional, but **meaningful and reliable**.
+
+- 🚀 Building **robust, real-world software** using Python, C & modern web stacks  
+- 🧠 Deeply interested in **Data Science, AI systems & cloud-native architecture**  
+- 💻 Comfortable handling **end-to-end development** — logic, APIs & interfaces  
+- 🎓 Passionate about **teaching, mentoring & simplifying complex ideas**  
+- 🛠️ Currently developing **V-SOS**, a scalable system focused on real-life impact  
+- 🌍 Strong believer in **open-source, learning by building & community growth**
 
 ---
 
-## 📫 Connect with Me
+## ✦ Reach Me
 
-<p align="left">
-  <a href="#-about-me" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+<p align="center">
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-121212?style=flat&logo=instagram&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://t.me/@pchopra3112" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-121212?style=flat&logo=telegram&logoColor=white"/>
   </a>
-  <a href="mailto:pulkitchopra073@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  &nbsp;
+  <a href="mailto:pulkitchopra073@gmail.com">
+    <img src="https://img.shields.io/badge/Email-121212?style=flat&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/pchopra3112/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-121212?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Skills & Technologies
+## ✦ Tools & Technologies
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,js,nodejs,react,docker,mongodb,git,linux&theme=dark" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## ✦ GitHub Insights
 
 <p align="center">
-  <a href="https://github.com/pulkit-phoenix31">
-    <img src="https://github-readme-stats.vercel.app/api?username=pulkit-phoenix31&show_icons=true&count_private=true&theme=react&border_color=1ABC9C&bg_color=0D1117&title_color=1ABC9C&icon_color=1ABC9C" height="180px"/>
-  </a>
-  <a href="https://github.com/pulkit-phoenix31">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit-phoenix31&layout=compact&theme=react&border_color=1ABC9C&bg_color=0D1117&title_color=1ABC9C" height="180px"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=pulkit-phoenix31&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=1ABC9C&icon_color=1ABC9C&text_color=FFFFFF" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit-phoenix31&layout=compact&hide_border=true&bg_color=0D1117&title_color=1ABC9C&text_color=FFFFFF" height="170"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/pulkit-phoenix31">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulkit-phoenix31&theme=react&border=1ABC9C&background=0D1117&stroke=1ABC9C" alt="GitHub Streak">
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulkit-phoenix31&hide_border=true&background=0D1117&stroke=1ABC9C&ring=1ABC9C&fire=1ABC9C&currStreakLabel=1ABC9C"/>
 </p>
 
 ---
 
 <p align="center">
-  <em>“Already Taken By My Favourite Soul.”</em> <br> ~ Pulkit (Maggie)
+  <sub>
+    “Already Taken By My Favourite Soul.”
+  </sub><br>
+  <b>— Pulkit (Maggie)</b>
 </p>
