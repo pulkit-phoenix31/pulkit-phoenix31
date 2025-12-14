@@ -57,7 +57,15 @@ I enjoy working on systems that are not just functional, but **meaningful and re
 ## ✦ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,nodejs,react,docker,mongodb,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="48" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" height="48" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="48" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="48" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="48" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="48" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="48" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="48" style="margin:8px;" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="48" style="margin:8px;" />
 </p>
 
 ---
