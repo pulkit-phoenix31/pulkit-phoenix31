@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello, I’m <span style="font-family: 'Georgia', serif;">Pulkit Chopra</span> 👋
+  Hello, I’m <span style="font-family: 'Georgia', serif;">Pulkit Chopra</span> 💗
 </h1>
 
 <p align="center">
@@ -91,7 +91,7 @@ I enjoy working on systems that are not just functional, but **meaningful and re
 
 <p align="center">
   <sub>
-    “Already Taken By My Favourite Soul.”
+    “Already Taken By My Favourite Soul.💗”
   </sub><br>
   <b>— Pulkit (Maggie)</b>
 </p>
