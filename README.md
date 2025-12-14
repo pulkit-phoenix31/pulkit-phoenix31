@@ -1,7 +1,7 @@
-<h1 align="center">Hello, I'm Daël 👋</h1>
+<h1 align="center">Hello, This is Pulkit Chopra 👋</h1>
 
 <p align="center">
-  <em>Developer | Innovator | Lifelong Learner</em>
+  <em>Software Developer | Reader | Tech Enthusiast</em>
 </p>
 
 <p align="center">
