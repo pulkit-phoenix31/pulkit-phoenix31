@@ -105,10 +105,10 @@ A real-world focused project aimed at **automatic accident detection and emergen
 
 ---
 
-## ✦ GitHub Achievements
+## ✦ Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pulkit-phoenix31&theme=darkhub&no-frame=true&row=2&column=4"/>
+  <img src="https://github.com/pulkit-phoenix31/pulkit-phoenix31/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
