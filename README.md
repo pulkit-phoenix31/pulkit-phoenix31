@@ -108,7 +108,7 @@ A real-world focused project aimed at **automatic accident detection and emergen
 ## ✦ GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pulkit-phoenix31&theme=darkhub&no-frame=true&row=1&column=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pulkit-phoenix31&theme=darkhub&no-frame=true&row=2&column=4"/>
 </p>
 
 ---
