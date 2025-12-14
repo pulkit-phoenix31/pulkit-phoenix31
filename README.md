@@ -65,12 +65,18 @@ I enjoy working on systems that are not just functional, but **meaningful and re
 ## ✦ GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pulkit-phoenix31&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=1ABC9C&icon_color=1ABC9C&text_color=FFFFFF" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit-phoenix31&layout=compact&hide_border=true&bg_color=0D1117&title_color=1ABC9C&text_color=FFFFFF" height="170"/>
+  <a href="https://github.com/pulkit-phoenix31">
+    <img src="https://github-readme-stats.vercel.app/api?username=pulkit-phoenix31&show_icons=true&count_private=true&theme=react&border_color=1ABC9C&bg_color=0D1117&title_color=1ABC9C&icon_color=1ABC9C" height="180px"/>
+  </a>
+  <a href="https://github.com/pulkit-phoenix31">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit-phoenix31&layout=compact&theme=react&border_color=1ABC9C&bg_color=0D1117&title_color=1ABC9C" height="180px"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulkit-phoenix31&hide_border=true&background=0D1117&stroke=1ABC9C&ring=1ABC9C&fire=1ABC9C&currStreakLabel=1ABC9C"/>
+  <a href="https://github.com/pulkit-phoenix31">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulkit-phoenix31&theme=react&border=1ABC9C&background=0D1117&stroke=1ABC9C" alt="GitHub Streak">
+  </a>
 </p>
 
 ---
