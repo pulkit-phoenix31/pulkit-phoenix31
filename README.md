@@ -54,6 +54,22 @@ I enjoy working on systems that are not just functional, but **meaningful and re
 
 ---
 
+## ✦ Featured Project
+
+### 🔹 V-SOS — Vehicle Safety & Emergency System
+
+A real-world focused project aimed at **automatic accident detection and emergency response**.
+
+**Key Highlights**
+- Real-time sensor-based accident detection logic
+- Scalable backend architecture for alert handling
+- Designed with reliability and real-life usability in mind
+- Focus on emergency response workflows
+
+**Tech Used:** Python, Node.js, MongoDB, APIs, Linux
+
+---
+
 ## ✦ Tools & Technologies
 
 <p align="center">
@@ -85,6 +101,14 @@ I enjoy working on systems that are not just functional, but **meaningful and re
   <a href="https://github.com/pulkit-phoenix31">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulkit-phoenix31&theme=react&border=1ABC9C&background=0D1117&stroke=1ABC9C" alt="GitHub Streak">
   </a>
+</p>
+
+---
+
+## ✦ GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pulkit-phoenix31&theme=darkhub&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
