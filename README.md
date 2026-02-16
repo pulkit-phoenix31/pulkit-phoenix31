@@ -86,31 +86,16 @@ A real-world focused project aimed at **automatic accident detection and emergen
 
 ---
 
-## ✦ GitHub Insights
-
-<p align="center">
-  <a href="https://github.com/pulkit-phoenix31">
-    <img src="https://github-readme-stats.vercel.app/api?username=pulkit-phoenix31&show_icons=true&count_private=true&theme=react&border_color=1ABC9C&bg_color=0D1117&title_color=1ABC9C&icon_color=1ABC9C" height="180px"/>
-  </a>
-  <a href="https://github.com/pulkit-phoenix31">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit-phoenix31&layout=compact&theme=react&border_color=1ABC9C&bg_color=0D1117&title_color=1ABC9C" height="180px"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pulkit-phoenix31">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pulkit-phoenix31&theme=react&border=1ABC9C&background=0D1117&stroke=1ABC9C" alt="GitHub Streak">
-  </a>
-</p>
-
----
-
 ## ✦ Contribution Activity
 
-![](https://github-contributor-stats.vercel.app/api?username=pulkit-phoenix31&limit=5&theme=radical&combine_all_yearly_contributions=true)
 <p align="center">
-  ![](https://github-contributor-stats.vercel.app/api?username=pulkit-phoenix31&limit=5&theme=radical&combine_all_yearly_contributions=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=pulkit-phoenix31&show_icons=true" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pulkit-phoenix31&theme=radical" />
+</p>
+
 
 ---
 
