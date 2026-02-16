@@ -108,7 +108,7 @@ A real-world focused project aimed at **automatic accident detection and emergen
 ## ✦ Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/pulkit-phoenix31/pulkit-phoenix31/blob/output/github-contribution-grid-snake.svg" />
+  ![](https://github-contributor-stats.vercel.app/api?username=pulkit-phoenix31&limit=5&theme=radical&combine_all_yearly_contributions=true)
 </p>
 
 ---
