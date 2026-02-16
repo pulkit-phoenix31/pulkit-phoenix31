@@ -107,6 +107,7 @@ A real-world focused project aimed at **automatic accident detection and emergen
 
 ## ✦ Contribution Activity
 
+![](https://github-contributor-stats.vercel.app/api?username=pulkit-phoenix31&limit=5&theme=radical&combine_all_yearly_contributions=true)
 <p align="center">
   ![](https://github-contributor-stats.vercel.app/api?username=pulkit-phoenix31&limit=5&theme=radical&combine_all_yearly_contributions=true)
 </p>
