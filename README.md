@@ -1,212 +1,234 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4B0082,30:6A0DAD,60:7B2CBF,100:4361EE&text=Pulkit%20Chopra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:0F0C29,20:302B63,40:24243E,70:6A0DAD,100:7B2CBF&text=Pulkit%20Chopra&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;AI+Engineer;Full-Stack+Developer;Backend+Systems+Builder;Open+Source+Contributor;Building+Scalable+Digital+Products"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Software+Engineer;Artificial+Intelligence+Engineer;Backend+Systems+Architect;Full+Stack+Developer;Building+Scalable+Products;Open+Source+Contributor;Automation+Enthusiast"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-CSE%20(Information%20Engineering)-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/B.Sc-AI%20%26%20Cyber%20Security-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Software%20Engineering-Professional-4338CA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/B.Tech-CSE%20(Information%20Engineering)-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/B.Sc-AI%20%26%20Cyber%20Security-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Delhi%2C%20India-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20To-Internships-6366F1?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<a href="mailto:pulkitchopra2007@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/pulkit-phoenix31">
+<img src="https://img.shields.io/badge/GitHub-Profile-4338CA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 <p align="center">
-  <a href="https://portfolio-pending.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:pulkitchopra2007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/pulkit_phoenix31">
-    <img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pulkit_phoenix31&style=for-the-badge&color=7C3AED"/>
-  <img src="https://img.shields.io/github/followers/pulkit_phoenix31?style=for-the-badge&color=6D28D9"/>
-  <img src="https://img.shields.io/github/stars/pulkit_phoenix31?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=4338CA"/>
+<img src="https://komarev.com/ghpvc/?username=pulkit-phoenix31&label=PROFILE+VIEWS&style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/followers/pulkit-phoenix31?style=for-the-badge&color=6D28D9"/>
+<img src="https://img.shields.io/github/stars/pulkit-phoenix31?style=for-the-badge&color=4338CA"/>
 </p>
 
 ---
 
-# About Me
+# ⚡ Command Center
 
-I am a Software Developer and Computer Science student passionate about building intelligent systems, scalable backend architectures, and modern full-stack applications. My focus lies at the intersection of Software Engineering, Artificial Intelligence, Automation, and Product Development.
+```yaml
+Name: Pulkit Chopra
+Role: Software Engineer
+Specialization:
+  - Artificial Intelligence
+  - Backend Engineering
+  - Full Stack Development
+  - Automation Systems
 
-Currently pursuing:
+Education:
+  - B.Tech CSE (Information Engineering)
+  - B.Sc AI & Cyber Security
 
-- **B.Tech in Computer Science Engineering (Information Engineering)** — IITM College of Engineering
-- **B.Sc in Artificial Intelligence & Cyber Security** — Delhi Technological University
-
-I enjoy transforming complex ideas into production-ready products through clean architecture, efficient APIs, automation workflows, and AI-powered systems.
-
-### Open To
-
-- Software Engineering Internships
-- Backend Engineering Roles
-- Full-Stack Development Roles
-- AI / ML Engineering Opportunities
-- Open Source Contributions
-- Product Engineering Teams
-- Startup Collaborations
-
----
-
-# Tech Stack
-
-### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,go,cpp"/>
-</p>
-
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/>
-</p>
-
-### Backend & Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,mysql"/>
-</p>
-
-### Cloud, DevOps & Tooling
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman"/>
-</p>
+Current_Status:
+  - Building AI Systems
+  - Developing Scalable APIs
+  - Exploring Agentic AI
+  - Learning System Design
+```
 
 ---
 
-# AI / ML Expertise
+# 🧠 Engineering Philosophy
+
+> "I don't just write code. I build systems that automate workflows, solve real-world problems, and scale efficiently."
+
+I am a Software Developer and AI Enthusiast passionate about building intelligent systems, scalable backend services, and modern digital products.
+
+My interests span across:
+
+- Artificial Intelligence
+- Machine Learning
+- Backend Engineering
+- Full Stack Development
+- Cloud Native Systems
+- Automation Platforms
+- Developer Tools
+- Open Source Technologies
+
+I enjoy designing software that combines performance, maintainability, scalability, and user impact.
+
+---
+
+# 🚀 Tech Arsenal
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,go,cpp&perline=10"/>
+</p>
+
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&perline=10"/>
+</p>
+
+## Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,supabase&perline=10"/>
+</p>
+
+## DevOps & Tooling
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman&perline=10"/>
+</p>
+
+---
+
+# 📊 Engineering Metrics
+
+| Metric | Value |
+|----------|----------|
+| Software Development Experience | 2+ Years |
+| Full Stack Applications | Multiple |
+| AI Projects | Active |
+| Backend APIs Built | Production Ready |
+| Databases | PostgreSQL, MySQL, Supabase |
+| Languages | 5+ |
+| Technologies | 20+ |
+| Open Source | Active Contributor |
+
+---
+
+# 🤖 AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |----------|----------|----------|
-| Machine Learning | Advanced | Model development and deployment |
 | Artificial Intelligence | Advanced | Intelligent automation systems |
-| Natural Language Processing | Advanced | AI Assistants, Prompt Engineering |
-| AI Automation | Advanced | Workflow orchestration and automation |
-| Backend AI Integration | Advanced | AI-powered APIs and services |
+| Machine Learning | Advanced | Model integration & deployment |
+| AI Assistants | Advanced | Conversational systems & automation |
+| Prompt Engineering | Advanced | LLM optimization |
+| Workflow Automation | Advanced | AI-driven productivity solutions |
+| Backend AI Integration | Advanced | Production-ready AI APIs |
 | Data Engineering | Intermediate | Data processing pipelines |
-| AI Product Engineering | Advanced | Production-ready AI applications |
 
 ---
 
-# Featured Projects
+# 🌟 Featured Projects
 
 <details>
-<summary><b>🚑 AutoResQ – Accident Detection System</b></summary>
+<summary><b>🚑 AutoResQ — Intelligent Accident Detection Platform</b></summary>
 
-### Project Overview
+### Overview
 
-An intelligent accident detection and emergency response platform designed to automatically detect accidents and notify emergency services.
+AutoResQ is an intelligent emergency response platform designed to detect vehicle accidents and automatically notify emergency services.
+
+### Project Dashboard
 
 | Category | Details |
 |----------|----------|
-| Stack | React, Node.js, Express.js, PostgreSQL, Supabase |
-| Scale | Multi-user architecture |
-| Performance | Optimized emergency event processing |
+| Architecture | Full Stack |
+| Backend | Node.js + Express.js |
+| Database | PostgreSQL + Supabase |
 | Security | JWT Authentication |
-| Impact | Faster emergency response workflows |
-| Repository | https://github.com/pulkit_phoenix31 |
+| Performance | Real-Time Event Processing |
+| Scale | Multi-User |
+| Status | Active Development |
 
-### Engineering Highlights
+### Highlights
 
-- Developed backend APIs using Node.js and Express.js
-- Integrated PostgreSQL and Supabase
-- Automated emergency alert workflows
-- Designed secure authentication mechanisms
-- Built scalable backend architecture
+- Accident detection workflows
+- Automated emergency alerts
+- Secure backend APIs
+- Database optimization
+- Scalable architecture
 
 </details>
 
 <details>
 <summary><b>🤖 AI Virtual Assistant</b></summary>
 
-### Project Overview
+### Overview
 
-AI-powered desktop automation assistant capable of managing workflows, coordinating tasks, and automating repetitive computer operations.
+An AI-powered automation assistant capable of managing computer tasks, automating workflows, and coordinating system operations.
+
+### Project Dashboard
 
 | Category | Details |
 |----------|----------|
-| Stack | Node.js, TypeScript, AI APIs |
-| Scale | Modular architecture |
-| Performance | Event-driven workflow execution |
-| Security | Secure command processing |
-| Impact | Productivity enhancement through automation |
-| Repository | https://github.com/pulkit_phoenix31 |
+| Architecture | Modular |
+| Backend | Node.js + TypeScript |
+| AI Layer | LLM Integration |
+| Security | Command Validation |
+| Performance | Event Driven |
+| Scale | Extensible |
 
-### Engineering Highlights
+### Highlights
 
-- Intelligent workflow automation
-- Command-based task execution
+- Workflow automation
+- Intelligent task execution
+- AI-powered coordination
 - Extensible architecture
-- AI-driven coordination engine
-- Scalable backend infrastructure
-
-</details>
-
-<details>
-<summary><b>🌐 Full Stack Engineering Projects</b></summary>
-
-### Project Overview
-
-A collection of modern web applications built with scalable backend services, secure authentication, and responsive frontend interfaces.
-
-| Category | Details |
-|----------|----------|
-| Stack | React, Node.js, PostgreSQL |
-| Scale | Production-ready architecture |
-| Performance | Optimized API interactions |
-| Security | Authentication & Authorization |
-| Impact | Real-world software solutions |
-| Repository | https://github.com/pulkit_phoenix31 |
-
-### Engineering Highlights
-
-- RESTful API development
-- Authentication systems
-- Database optimization
-- Modern frontend development
-- Cloud-ready deployment architecture
+- Productivity optimization
 
 </details>
 
 ---
 
-# Experience
+# 💼 Experience
 
-## Freelance Software Developer
+## Software Developer
 
-### Self-Employed
+### Freelance Developer
 
-**2023 – Present**
+**2023 — Present**
 
-Developing independent software products, backend services, automation tools, and web-based solutions for learning, experimentation, and real-world problem solving.
+Building independent software solutions, APIs, automation systems, and modern web applications.
 
-#### Scope of Work
+### Responsibilities
 
-- Built backend APIs using Node.js and Express.js
-- Developed full-stack web applications
-- Managed complete project lifecycle
-- Designed scalable database systems
-- Implemented automation workflows
+- Full stack application development
+- Backend architecture design
+- API development
+- Database design
+- Software deployment
+- Automation workflow creation
 
-**Skills**
+### Core Skills
 
-`Node.js` `Express.js` `React` `PostgreSQL` `TypeScript` `Docker`
+`Node.js`
+`React`
+`TypeScript`
+`PostgreSQL`
+`Docker`
+`Git`
 
 ---
 
@@ -214,152 +236,134 @@ Developing independent software products, backend services, automation tools, an
 
 ### Aquatech
 
-**Internship**
+Worked with technical teams while gaining exposure to professional development workflows and engineering practices.
 
-Contributed to technical operations while gaining practical exposure to professional software development workflows and engineering practices.
+### Responsibilities
 
-#### Scope of Work
+- Technical support tasks
+- Development assistance
+- Engineering collaboration
+- Workflow optimization
 
-- Assisted technical teams
-- Participated in development activities
-- Learned enterprise workflows
-- Improved technical problem-solving abilities
+### Core Skills
 
-**Skills**
-
-`Software Development` `Collaboration` `Engineering Practices`
+`Software Development`
+`Problem Solving`
+`Team Collaboration`
 
 ---
 
-# Achievements
+# 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Details |
-|-------------|----------|
-| Full Stack Developer | Built scalable web applications using modern technologies |
-| AI Systems Builder | Developed AI-powered assistants and automation tools |
-| Backend Engineer | Designed APIs, databases, and backend services |
-| Open Source Enthusiast | Actively contributes and builds in public |
-| Dual Degree Student | Pursuing both CSE and AI & Cyber Security programs |
+|------------|------------|
+| AI Systems Builder | Built AI-powered automation solutions |
+| Full Stack Engineer | Developed scalable applications |
+| Backend Specialist | Designed APIs & backend services |
+| Open Source Enthusiast | Public development and contributions |
+| Dual Degree Student | Pursuing CSE & AI/Cyber Security simultaneously |
 
 </div>
 
 ---
 
-# Certifications
-
-## AWS
-
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Computing-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-## Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Certified-7C3AED?style=for-the-badge&logo=oracle&logoColor=white)
-
-## NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Learner-4338CA?style=for-the-badge)
-
-## Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-6366F1?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-# Coding Profiles
+# 🎓 Certifications Roadmap
 
 <p align="center">
 
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-<a href="https://www.geeksforgeeks.org">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-4338CA?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Oracle-Certified-7C3AED?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-<a href="https://www.hackerrank.com">
-<img src="https://img.shields.io/badge/HackerRank-Profile-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/NPTEL-Elite-4338CA?style=for-the-badge"/>
 
-<a href="https://www.codechef.com">
-<img src="https://img.shields.io/badge/CodeChef-Profile-6366F1?style=for-the-badge"/>
-</a>
+<img src="https://img.shields.io/badge/Cisco-Networking-6366F1?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 </p>
 
 ---
 
-# GitHub Analytics
+# 📈 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pulkit_phoenix31&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit_phoenix31&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pulkit-phoenix31&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pulkit-phoenix31&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pulkit_phoenix31&theme=tokyonight&hide_border=true"/>
-</p>
 
----
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pulkit-phoenix31&layout=compact&theme=tokyonight&hide_border=true"/>
 
-# GitHub Trophies
+<img width="52%" src="https://github-profile-trophy.vercel.app/?username=pulkit-phoenix31&theme=algolia&no-frame=true&column=4&row=2"/>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pulkit_phoenix31&theme=algolia&no-frame=true&row=2&column=4"/>
-</p>
-
----
-
-# Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pulkit_phoenix31&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
-# Contribution Snake
+# 📊 Contribution Activity
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/pulkit_phoenix31/pulkit_phoenix31/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pulkit-phoenix31&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
 
-# Current Focus
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/pulkit-phoenix31/pulkit-phoenix31/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 💻 Development Activity
+
+```text
+TypeScript   ███████████████████████░░░░░ 45%
+JavaScript   ██████████████████░░░░░░░░░░ 30%
+Python       ██████████░░░░░░░░░░░░░░░░░░ 15%
+Go           ████░░░░░░░░░░░░░░░░░░░░░░░░ 05%
+Others       ███░░░░░░░░░░░░░░░░░░░░░░░░░ 05%
+```
+
+---
+
+# 🎯 Current Focus
 
 ```yaml
 Learning:
-  - System Design
-  - Machine Learning Engineering
-  - Cloud Computing
+  - Advanced System Design
   - Distributed Systems
+  - Cloud Engineering
+  - MLOps
 
 Building:
-  - AI Virtual Assistant
   - AutoResQ
-  - Backend APIs
+  - AI Virtual Assistant
+  - Backend Services
   - Developer Tools
 
 Exploring:
   - Agentic AI
   - LLM Applications
-  - MLOps
-  - AI Automation
+  - AI Agents
+  - Autonomous Workflows
 
 Open_To:
   - Internships
   - Open Source
-  - Software Engineering Roles
-  - Startup Collaborations
+  - Collaborations
+  - Research Projects
 ```
 
 ---
 
-# Connect
+# 🌐 Connect
 
 <p align="center">
 
@@ -367,16 +371,12 @@ Open_To:
 <img src="https://img.shields.io/badge/Gmail-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/pulkit-phoenix31">
+<img src="https://img.shields.io/badge/GitHub-Follow-4338CA?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/pulkit_phoenix31">
-<img src="https://img.shields.io/badge/GitHub-Profile-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://portfolio-pending.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -384,9 +384,15 @@ Open_To:
 ---
 
 <p align="center">
-<i>"Building intelligent systems today that solve tomorrow's problems."</i>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+<h3 align="center">⚡ Building Intelligent Systems Today That Solve Tomorrow's Problems ⚡</h3>
 </p>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4B0082,30:6A0DAD,60:7B2CBF,100:4361EE"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0F0C29,20:302B63,40:24243E,70:6A0DAD,100:7B2CBF"/>
 </p>
